@@ -6,6 +6,7 @@
 <p>3- Menu and button system</p>
 
 <h2>Setup</h2>
+
 -> It is enough if you write the text below to the console.
 ```bash
 npm i
