@@ -17,11 +17,11 @@
 
 ![image](https://github.com/fu-w/ticket-bot/assets/74312970/b2eb69ee-22a1-4ca4-b00e-86f5d698cc34)
 
-[My Discord Server](https://discord.gg/9EkZmK9Mgv) 
+[📩 My Discord Server](https://discord.gg/9EkZmK9Mgv) 
 <br>
-[My Discord Profile](https://discord.com/users/849947229523279882)
+[✨ My Discord Profile](https://discord.com/users/849947229523279882)
 <br>
-[Anju Development](https://github.com/Anju-Developer)
+[🎉 Anju Development](https://github.com/Anju-Developer)
 
 
 
