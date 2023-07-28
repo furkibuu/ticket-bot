@@ -5,6 +5,16 @@
 <p>2- Add member remove</p>
 <p>3- Menu and button system</p>
 
+<h2>Setup</h2>
+-> It is enough if you write the text below to the console.
+```bash
+npm i
+```
+-> To start the bot
+```bash
+node main.js
+```
+
 <h2>📷 Bot Examp Pictures</h2>
 
 ![image](https://github.com/fu-w/ticket-bot/assets/74312970/c2f98de3-05f8-49a4-90da-8c43ca6e6918)
