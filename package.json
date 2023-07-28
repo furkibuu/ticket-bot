@@ -1,0 +1,17 @@
+{
+  "name": "ticket-bots",
+  "version": "1.0.0",
+  "description": "furkibu ticket bots!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "furkibu",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4"
+  }
+}
